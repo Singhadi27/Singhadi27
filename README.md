@@ -24,7 +24,7 @@ I'm passionate about technology, open source, and building impactful software.
 
 ## 📫 How to reach me
 
-- LinkedIn: [adityasinghio](https://www.linkedin.com/in/aditysinghio/)
+- LinkedIn: [adityasinghio](https://www.linkedin.com/in/adityasinghio/)
 
 ## ⚡ Fun Facts
 
