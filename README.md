@@ -19,8 +19,8 @@ I'm passionate about technology, open source, and building impactful software.
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [localVue](#) | A project I'm proud of—details coming soon! | Flutter, Dart |
-| [krishilink](#) | My innovative agriculture/tech solution—more info soon! | Flutter, C++, SQL |
+| [localVue](https://github.com/Singhadi27/loacalvue) | A project I'm proud of—details coming soon! | Flutter, Dart, firebase |
+| [krishilink](https://github.com/Singhadi27/krishilinkapp) | My innovative agriculture/tech solution—more info soon! | Flutter, dart, firebase |
 
 ## 📫 How to reach me
 
