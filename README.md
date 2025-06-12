@@ -1,5 +1,3 @@
-
-<!--
 # Hi there 👋, I'm Singhadi27!
 
 Welcome to my GitHub profile!  
@@ -37,5 +35,3 @@ I'm passionate about technology, open source, and building impactful software.
 
 Thank you for visiting my profile!  
 Let's connect and create something amazing together 🚀
-
--->
