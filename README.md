@@ -5,22 +5,30 @@ I'm passionate about technology, open source, and building impactful software.
 
 ## 🚀 About Me
 
-- 👨‍💻 Mobile App Developer using Flutter & DevOps Engineer
-- 🌱 Currently exploring new technologies and contributing to open source.
+- 👨‍💻 Mobile App Developer using Flutter & DevOps Engineer  
+- 🌱 Currently exploring new technologies and contributing to open source.  
 - 🤝 Always open to connecting with like-minded developers and creators.
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C++, Dart, SQL
-- **Frameworks:** Flutter
-- **DevOps:** CI/CD, Cloud & Automation Tools
+- **Languages:** C++, Dart, SQL  
+- **Frameworks:** Flutter  
+- **DevOps:** CI/CD, Cloud & Automation Tools (Jenkins, AWS, Docker, Kubernetes, Terraform, SonarQube)
+
+## 🔧 DevOps Workflow
+
+Here’s a quick visual of the DevOps tools and pipeline I work with:
+
+![DevOps Architecture](devops-architecture.png)
+
+> *(Image shows Jenkins + GitHub + Maven + SonarQube + Docker + Kubernetes + AWS EC2 + Monitoring)*
 
 ## ⭐ Featured Projects
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
-| [localVue](https://github.com/Singhadi27/loacalvue) | A project I'm proud of—details coming soon! | Flutter, Dart, firebase |
-| [krishilink](https://github.com/Singhadi27/krishilinkapp) | My innovative agriculture/tech solution—more info soon! | Flutter, dart, firebase |
+| [LocalVue](https://github.com/Singhadi27/loacalvue) | Discover and book local events (music, poetry, qawwali) | Flutter, Dart, Firebase |
+| [KrishiLink](https://github.com/Singhadi27/krishilinkapp) | Empowering farmers with crop listings and real-time price tracking | Flutter, Dart, Firebase |
 
 ## 📫 How to reach me
 
@@ -28,8 +36,8 @@ I'm passionate about technology, open source, and building impactful software.
 
 ## ⚡ Fun Facts
 
-- 🚀 Always eager to learn and try out the latest in tech and DevOps
-- 🎮 Coding, collaborating, and problem-solving are my passions
+- 🚀 Always eager to learn and try out the latest in tech and DevOps  
+- 🎮 Coding, collaborating, and problem-solving are my passions  
 
 ---
 
