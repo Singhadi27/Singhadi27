@@ -19,7 +19,7 @@ I'm passionate about technology, open source, and building impactful software.
 
 Here’s a quick visual of the DevOps tools and pipeline I work with:
 
-![DevOps Architecture](Screenshot (1).png)
+![DevOps Architecture](devops-architecture.png)
 
 > *(Image shows Jenkins + GitHub + Maven + SonarQube + Docker + Kubernetes + AWS EC2 + Monitoring)*
 
