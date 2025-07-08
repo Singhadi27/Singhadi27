@@ -21,7 +21,7 @@ Here’s a quick visual of the DevOps tools and pipeline I work with:
 
 ![DevOps Architecture](devops_architecture.png)
 
-> *(Image shows Jenkins + GitHub + Maven + SonarQube + Docker + Kubernetes + AWS EC2 + Monitoring)*
+> *(Image shows GitHub + CI/CD Pipeline (Build, Test, SonarQube) + Docker + Kubernetes + Terraform + AWS + Prometheus + Grafana + ELK Stack)*
 
 ## ⭐ Featured Projects
 
