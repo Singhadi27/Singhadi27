@@ -27,8 +27,13 @@ Here’s a quick visual of the DevOps tools and pipeline I work with:
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
+| [Bits&Builds](https://github.com/Singhadi27/devops-learning-journey.git) | This repo contains my hands-on notes, class summaries, and tools I’m learning as I dive deep into the world of DevOps.
 | [LocalVue](https://github.com/Singhadi27/loacalvue) | Discover and book local events (music, poetry, qawwali) | Flutter, Dart, Firebase |
 | [KrishiLink](https://github.com/Singhadi27/krishilinkapp) | Empowering farmers with crop listings and real-time price tracking | Flutter, Dart, Firebase |
+
+
+
+
 
 ## 📫 How to reach me
 
